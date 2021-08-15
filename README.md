@@ -16,4 +16,4 @@
 ### 3. Text Cleaning
 ### 4. Word Cloud
 ### 5. Feature Extraction
-### 6. Sentimenat Analysis
+### 6. Sentiment Analysis
