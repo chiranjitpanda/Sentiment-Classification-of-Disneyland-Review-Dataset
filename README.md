@@ -10,4 +10,10 @@
 ### Reviewer_Location: country of origin of visitor
 ### Review_Text: comments made by visitor
 ### Disneyland_Branch: location of Disneyland Park
-
+### What i am done is that:
+### 1. Business Perpective Analysis
+### 2. Data Cleaning
+### 3. Text Cleaning
+### 4. Word Cloud
+### 5. Feature Extraction
+### 6. Sentimenat Analysis
